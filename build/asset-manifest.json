@@ -1,0 +1,20 @@
+{
+  "BankList.js": "js/pages/chunk.BankList.js",
+  "Home.js": "js/pages/chunk.Home.js",
+  "LoanDetail.js": "js/pages/chunk.LoanDetail.js",
+  "LoanList.js": "js/pages/chunk.LoanList.js",
+  "RechargeRecord.js": "js/pages/chunk.RechargeRecord.js",
+  "RoleAdd.js": "js/pages/chunk.RoleAdd.js",
+  "RoleEdit.js": "js/pages/chunk.RoleEdit.js",
+  "RoleGroup.js": "js/pages/chunk.RoleGroup.js",
+  "RoleGroupAdd.js": "js/pages/chunk.RoleGroupAdd.js",
+  "RoleGroupEdit.js": "js/pages/chunk.RoleGroupEdit.js",
+  "RoleList.js": "js/pages/chunk.RoleList.js",
+  "UserSearch.js": "js/pages/chunk.UserSearch.js",
+  "app.css": "css/app.css",
+  "app.js": "js/app.js",
+  "media\\iconfont.eot?t=1520426648803": "media/iconfont.eot",
+  "media\\iconfont.svg?t=1520426648803": "media/iconfont.svg",
+  "media\\iconfont.ttf?t=1520426648803": "media/iconfont.ttf",
+  "vendors.js": "js/vendors.js"
+}
