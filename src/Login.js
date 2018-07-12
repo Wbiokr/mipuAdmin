@@ -51,6 +51,7 @@ class Login extends React.Component {
     )
   }
   
+  
   changeCheckbox=(e)=>{
     this.setState({checked:e.target.checked});
   }
